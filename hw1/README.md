@@ -2,6 +2,7 @@
 **Author:** LJ Huang  
 **Semester:** Spring 2025
 
+
 ## Overview
 This repository contains the code and report for Assignment 1. The assignment covers three main tasks:
 1. **Task 1:** Implementation and evaluation of Value Iteration (VI), Policy Iteration (PI), and Modified Policy Iteration (MPI) on the Frozen Lake environment.
